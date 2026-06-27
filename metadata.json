@@ -1,0 +1,5 @@
+{
+  "name": "Opal Clone MVP",
+  "description": "A node-based visual workflow builder replicating Google Opal's no-code functionality. Features drag-and-drop nodes, prompt refinement, and real-time execution logs.",
+  "requestFramePermissions": []
+}
